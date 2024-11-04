@@ -1,6 +1,4 @@
-Here’s a rewritten version of your content for improved clarity and readability:
 
----
 
 ### Managing Dependencies for Development and Testing
 
@@ -55,6 +53,3 @@ Used by setuptools, `setup.cfg` is essential for configuring the packaging and i
 2. `flake8` (recommended for its comprehensive capabilities, integrating features from `pylint`, `pycodestyle`, and `mccabe`)
 3. `pycodestyle`
 
----
-
-This version is structured for easier understanding while preserving the original information.
